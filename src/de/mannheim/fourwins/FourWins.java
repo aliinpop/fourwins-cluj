@@ -1,5 +1,9 @@
 package de.mannheim.fourwins;
-
+/**
+ * just wrote smth
+ * @author ALIN
+ *
+ */
 public class FourWins
 {
   public static void main(String argv[]) {
